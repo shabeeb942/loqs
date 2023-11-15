@@ -13342,6 +13342,11 @@ video::-webkit-media-controls {
   .index5_main .i5_custom_image_gallery_wrapper .custom_img_gall_row .left_image_content .gallery .main-image img {
     padding: 0 11px;
   }
+  .video_one{
+    object-fit: fill;
+    width: 100%;
+    height: 100%;
+  }
 }
 .index4_main .top_furniture_wrapper .top-furniture-swiper-container .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #ED1A3A !important;
