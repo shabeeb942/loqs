@@ -13368,3 +13368,14 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
   width: 100%;
   height: 100%;
 }
+
+
+@media only screen and (max-width: 576px) {
+
+  .foot-mob{
+    max-width: 50% !important;
+  }
+  .foot-mob-img{
+    text-align: center;
+  }
+}
